@@ -42,7 +42,7 @@ class ReverseGAN:
     discriminator = "Human learns to conform"
 ```
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Programming Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
@@ -53,10 +53,15 @@ class ReverseGAN:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="45" />
 </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embedded/embedded-original.svg" width="45" />
 
 ### 🌐 Languages
 
-🇧🇷 Portuguese (Native) | 🇺🇸 English (Fluent) | 🇫🇷 French (Fluent) | 🇨🇳 Chinese (Professional) | 🇪🇸 Spanish (Professional)
+## 🌐 Languages
+
+🇧🇷 Português (Nativo) &nbsp;&nbsp;|&nbsp;&nbsp;
+🇺🇸 English (Fluent) &nbsp;&nbsp;|&nbsp;&nbsp;
+🇨🇳 中文 (Professional)
 
 ## 🐱 Things I Love
 
