@@ -44,7 +44,7 @@ class ReverseGAN:
 
 ## 🛠️ Skills & Programming Languages
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; row-gap: 30px; max-width: 800px; margin: auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
@@ -53,8 +53,9 @@ class ReverseGAN:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50" title="MATLAB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="50" title="Visual Studio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="SCADA / Industrial" />
-  <img src="assets/img/qgis.png" width="135" title="QGIS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" title="SCADA" />
+  <img src="assets/img/qgis.png" width="50" title="QGIS" />
+</div>
 </p>
 
 ---
