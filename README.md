@@ -42,6 +42,21 @@ class ReverseGAN:
     discriminator = "Human learns to conform"
 ```
 
+## 🛠️ Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PRISMA-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Ethics-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fintech-4CAF50?style=for-the-badge" />
+</div>
+
+### 🌐 Languages
+
+🇧🇷 Portuguese (Native) | 🇺🇸 English (Fluent) | 🇫🇷 French (Fluent) | 🇨🇳 Chinese (Professional) | 🇪🇸 Spanish (Professional)
 
 ## 🐱 Things I Love
 
