@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/img/profile.png" width="160" />
+</div>
 
-<!--
-**NataliaDeLimaBatista/NataliaDeLimaBatista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=450&lines=🌸+Natália+De+Lima+Batista;言文丽;AI+Researcher+%7C+Reverse+GAN;Fudan+YESLab+%7C+SJTU" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <i>"The algorithm does not merely reflect reality — it actively shapes the conditions under which reality becomes perceptible."</i>
+</div>
+
+---
+
+## 🎀 About Me
+
+**Biosystems Engineer (UNESP) | MA in Modern Chinese Studies (SJTU)**
+
+- 🤖 **AI Researcher** @ Fudan YESLab (Fintech)
+- 📝 Research: Beauty Filters (Meiyan) + Reverse GAN
+- 🧠 Philosophy of Technology | Postphenomenology
+
+---
+
+## 🏆 Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-PRISMA-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Ethics-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fintech-4CAF50?style=for-the-badge" />
+</p>
+
+---
+
+## 🔬 Reverse GAN
+
+```python
+class ReverseGAN:
+    """The machine teaches the human"""
+    generator = "Algorithm defines the beauty standard"
+    discriminator = "Human learns to conform"
