@@ -44,7 +44,7 @@ class ReverseGAN:
 
 ## 🛠️ Skills & Programming Languages
 
-<p align="center">
+<p align="center" style="white-space: nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++" />
@@ -54,7 +54,7 @@ class ReverseGAN:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" title="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" title="SCADA / Industrial" />
-  <img src="assets/img/qgis.png" width="120" title="QGIS" />
+  <img src="assets/img/qgis.png" width="135" title="QGIS" />
 </p>
 
 ---
