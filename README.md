@@ -52,13 +52,21 @@ class ReverseGAN:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaDeLimaBatista&layout=compact&theme=rose&hide_border=true&bg_color=FFE4EC&title_color=FF69B4" />
 </div>
 
-🐱 Things I Love
+---
+
+## 🐱 Things I Love
+
 🌸 Pink | 🐱 Cats | 🍳 Cooking | 📺 Serial Experiments Lain | 🎬 The Office
 
-📫 Contact
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+---
 
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalialimabatista/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natalia.batista@sjtu.edu.cn)
+
+---
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=NataliaDeLimaBatista&label=Profile%20Views&countColor=%23FF69B4" />
