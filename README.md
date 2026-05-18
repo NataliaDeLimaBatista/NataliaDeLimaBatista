@@ -57,7 +57,7 @@ class ReverseGAN:
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /><br/>VS Code</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="50" /><br/>Visual Studio</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" /><br/>SCADA</td>
-    <td align="center"><img src="assets/img/qgis.png" width="50" /><br/>QGIS</td>
+    <td align="center"><img src="assets/img/qgis.png" width="135" /><br/>QGIS</td>
   </tr>
 </table>
 </p>
