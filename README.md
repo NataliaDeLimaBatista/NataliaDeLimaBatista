@@ -54,7 +54,7 @@ class ReverseGAN:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" title="Visual Studio" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" title="SCADA / Industrial" />
-  <img src="assets/img/qgis.png" width="45" title="QGIS" />
+  <img src="assets/img/qgis.png" width="65" title="QGIS" />
 </p>
 
 ---
