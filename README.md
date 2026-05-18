@@ -62,9 +62,9 @@ class ReverseGAN:
 ## 🌐 Languages
 
 <p align="center">
-  🇧🇷 Português (Nativo) &nbsp;&nbsp;|&nbsp;&nbsp;
-  🇺🇸 English (Fluent) &nbsp;&nbsp;|&nbsp;&nbsp;
-  🇨🇳 中文 (Professional)
+  <img src="https://flagcdn.com/br.svg" width="24" style="vertical-align: middle;" /> Português (Nativo) &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://flagcdn.com/us.svg" width="24" style="vertical-align: middle;" /> English (Fluent) &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://flagcdn.com/cn.svg" width="24" style="vertical-align: middle;" /> 中文 (Professional)
 </p>
 
 ## 🐱 Things I Love
