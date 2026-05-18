@@ -44,3 +44,13 @@ class ReverseGAN:
     """The machine teaches the human"""
     generator = "Algorithm defines the beauty standard"
     discriminator = "Human learns to conform"
+
+🐱 Things I Love
+🌸 Pink | 🐱 Cats | 🍳 Cooking | 📺 Serial Experiments Lain | 🎬 The Office
+
+📫 Contact
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+<p align="center"> <img src="https://profile-counter.glitch.me/NataliaDeLimaBatista/count.svg" /> </p> ```
