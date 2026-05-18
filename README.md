@@ -44,7 +44,7 @@ class ReverseGAN:
 
 ## 🛠️ Skills & Programming Languages
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; row-gap: 30px; max-width: 800px; margin: auto;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; row-gap: 30px; max-width: 900px; margin: auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
