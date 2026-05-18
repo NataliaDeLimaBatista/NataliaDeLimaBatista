@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/NataliaDeLimaBatista/NataliaDeLimaBatista/main/assets/img/profile.jpg" width="160" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -45,16 +41,7 @@ class ReverseGAN:
     generator = "Algorithm defines the beauty standard"
     discriminator = "Human learns to conform"
 ```
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NataliaDeLimaBatista&show_icons=true&theme=rose&hide_border=true&bg_color=FFE4EC&title_color=FF69B4&icon_color=FF69B4&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaDeLimaBatista&layout=compact&theme=rose&hide_border=true&bg_color=FFE4EC&title_color=FF69B4" />
-</div>
-
-<p align="center">
-  <i>✨ Gráficos atualizam automaticamente conforme sua atividade no GitHub ✨</i>
-</p>
 
 ## 🐱 Things I Love
 
