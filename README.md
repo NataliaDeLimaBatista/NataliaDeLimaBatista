@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <i>"The algorithm does not merely reflect reality — it actively shapes the conditions under which reality becomes perceptible."</i>
+  <i>"The algorithm does not merely reflect reality, it actively shapes the conditions under which reality becomes perceptible."</i>
 </div>
 
 ---
